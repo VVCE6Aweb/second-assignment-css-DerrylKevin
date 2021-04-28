@@ -1,0 +1,34 @@
+
+
+div {
+    padding-left: 30px;
+    font-size: 12px;
+}
+
+.skill {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: blue;
+    padding: 10px
+}
+
+.skill li {
+    text-decoration: underline;   
+    padding: 10px
+}
+
+#logo {
+    width: 60px;
+    padding-left: 20px;
+    float: left;
+}
+
+#col {
+    color: blue;
+}
+
+#pic {
+    padding: 20px;
+    width: 150px;
+    float: right;
+  }
